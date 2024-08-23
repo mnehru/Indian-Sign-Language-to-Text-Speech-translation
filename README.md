@@ -1,7 +1,7 @@
 # Sign Language to Text Conversion
 
-![Output Video](images/outputVideo_gif.gif)
-[YouTube](https://www.youtube.com/watch?v=Rd04XB6F0pU)
+![Output Video](Sign Language to Text Conversion.mp4)
+
 ## Abstract
 
 Sign language is one of the oldest and most natural form of language for communication, but since most people do not know sign language and interpreters are very difficult to come by we have come up with a real time method using neural networks for fingerspelling based american sign language.
@@ -180,9 +180,6 @@ So, to handle above cases I made three different classifiers for classifying the
 2.	{T, K, D, I}
 3.	{S, M, N} 
 
-The GUI(Graphical User Interface) of the application is as shown below :
-
-![GUI](images/gui.png)
 
 Flow Chart for Gesture Classification is as following :
 
