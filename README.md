@@ -1,7 +1,6 @@
 # Sign Language to Text Conversion
 
-![Output Video](https://github.com/user-attachments/assets/c037369c-c63e-4e9d-ad6e-520d0ffea914
-)
+![Output Video](images/Sign Language to Text Conversion.mp4)
 
 ## Abstract
 
@@ -72,9 +71,7 @@ for i in string.ascii_uppercase:
 
 I captured each frame shown by the webcam of our machine. 
 
-In each frame I defined a region of interest (ROI) which is denoted by a blue bounded square as shown in the image below.
-
-![Training Data Collection Image](images/trainingdata.png)
+In each frame I defined a region of interest (ROI) which is denoted by a blue bounded square 
 
 After capturing the image from the ROI, I applied gaussian blur filter to the image which helps for extracting various features of the image. 
 
